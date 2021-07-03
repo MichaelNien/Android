@@ -1,6 +1,6 @@
 # Android
 
-
+[Realse](https://developer.android.com/about/versions)
 
 ## Android 12.0 (API level 31)
 
@@ -24,7 +24,9 @@
 
 ## Android 8.0 (API level 26)
 
+1. bug activities 設定透明，又設定方向，閃退問題
 
+   https://blog.csdn.net/ruanxiaoyao/article/details/102462738
 
 ## Android 7.1 (API level 25)
 
