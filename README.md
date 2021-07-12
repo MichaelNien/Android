@@ -2,6 +2,8 @@
 
 [Realse](https://developer.android.com/about/versions)
 
+[編譯資訊](https://source.android.google.cn/setup/build/older-versions)
+
 
 
 Android 12.0 (API level 31)
@@ -29,3 +31,12 @@ Android 6.0 (API level 23)
 Android 5.1 (API level 22)
 
 Android 5.0 (API level 21)
+
+
+
+| 版本                                          | JDK       |
+| --------------------------------------------- | --------- |
+| 9.x ~                                         |           |
+| 7.x ~ 8.x                                     | OpenJDK 8 |
+| 5.x ~ 6.0 <br>(API level 21) ~ (API level 23) | OpenJDK 7 |
+
