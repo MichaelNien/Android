@@ -40,3 +40,10 @@ Android 5.0 (API level 21)
 | 7.x ~ 8.x                                     | OpenJDK 8 |
 | 5.x ~ 6.0 <br>(API level 21) ~ (API level 23) | OpenJDK 7 |
 
+
+
+憑證
+
+預設禁用  certificate revocation checking 
+
+https://github.com/square/okhttp/issues/2348
