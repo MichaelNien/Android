@@ -2,10 +2,14 @@
 
 [Release](https://developer.android.com/studio/releases)
 
-4.2.x
+
+
+## 4.2.x
 
 Open JDK 11
 
-4.1.x
+[Gradle tasks 出不來問題](https://stackoverflow.com/questions/67405791/gradle-tasks-are-not-showing-in-the-gradle-tool-window-in-android-studio-4-2)
+
+## 4.1.x
 
 Open JDK 8
