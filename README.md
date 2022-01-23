@@ -44,6 +44,6 @@ Android 5.0 (API level 21)
 
 憑證
 
-預設禁用  certificate revocation checking 
+預設禁用  certificate revocation checking (憑證註銷檢查)
 
 https://github.com/square/okhttp/issues/2348
