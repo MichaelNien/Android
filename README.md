@@ -6,6 +6,8 @@
 
 
 
+Android 12.0 (API level 32)
+
 Android 12.0 (API level 31)
 
 Android 11.0 (API level 30)
