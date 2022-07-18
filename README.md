@@ -6,6 +6,8 @@
 
 
 
+Android 13.0 (API level 34)
+
 Android 12.0 (API level 32)
 
 Android 12.0 (API level 31)
@@ -36,11 +38,11 @@ Android 5.0 (API level 21)
 
 
 
-| 版本                                          | JDK       |
-| --------------------------------------------- | --------- |
-| 9.x ~                                         |           |
-| 7.x ~ 8.x                                     | OpenJDK 8 |
-| 5.x ~ 6.0 <br>(API level 21) ~ (API level 23) | OpenJDK 7 |
+| 版本                                          | JDK        |
+| --------------------------------------------- | ---------- |
+| 13.x                                          | OpenJDK 11 |
+| 7.x ~ 12.x                                    | OpenJDK 8  |
+| 5.x ~ 6.0 <br>(API level 21) ~ (API level 23) | OpenJDK 7  |
 
 
 
