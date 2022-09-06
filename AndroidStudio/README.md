@@ -2,6 +2,12 @@
 
 [Release](https://developer.android.com/studio/releases)
 
+
+
+## Chipmunk
+
+AGP 7.2.x
+
 ## Bumblebee
 
 AGP 7.1.x
