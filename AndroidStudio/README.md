@@ -34,6 +34,13 @@ AGP 4.2.x
 
 Open JDK 11
 
+Gradle tasks 出不來問題
+
+```
+File -> Settings -> Experimental
+Do not buile Gradle task list during Gradle sync(取消勾選)
+```
+
 [Gradle tasks 出不來問題](https://stackoverflow.com/questions/67405791/gradle-tasks-are-not-showing-in-the-gradle-tool-window-in-android-studio-4-2)
 
 ## 4.1.x
