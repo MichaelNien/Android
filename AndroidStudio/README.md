@@ -8,9 +8,13 @@
 
 AGP 7.4.x
 
-關閉 code version
+關閉 Code vision
 
-https://stackoverflow.com/questions/75110696/how-to-disable-git-information-inlay-hints-in-editor-in-android-studio-electri
+```
+File -> Settings -> Editor -> Inlay Hints -> Code vision (取消勾選)
+```
+
+[關閉 Code vision](https://stackoverflow.com/questions/75110696/how-to-disable-git-information-inlay-hints-in-editor-in-android-studio-electri)
 
 ## Dolphin
 
