@@ -2,6 +2,8 @@
 
 ## Giraffe
 
+AGP 8.1.x
+
 ## Flamingo
 
 AGP 8.0.x
