@@ -10,6 +10,14 @@ module.exports = {
     sidebarDepth: 0,
     sidebar: [
       ['/', '首頁'],
+	  {
+        title: 'Ide',
+        collapsable: false,
+        sidebarDepth: 1,
+        children: [
+          ['/Android_Studio.md', 'Android Studio'],
+        ]
+      },
     ],
     nav: [
     ]
