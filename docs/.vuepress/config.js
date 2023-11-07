@@ -15,7 +15,7 @@ module.exports = {
         collapsable: false,
         sidebarDepth: 1,
         children: [
-          ['/Android_Studio.md', 'Android Studio'],
+          ['/ide/Android_Studio.md', 'Android Studio'],
         ]
       },
     ],
