@@ -18,6 +18,14 @@ module.exports = {
           ['/ide/Android_Studio.md', 'Android Studio'],
         ]
       },
+	  {
+        title: 'Service',
+        collapsable: false,
+        sidebarDepth: 1,
+        children: [
+          ['/service/Firebase.md', 'Firebase'],
+        ]
+      },
     ],
     nav: [
     ]
