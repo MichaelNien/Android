@@ -1,5 +1,9 @@
 # Android Studio
 
+## Hedgehog
+
+AGP 8.2.x
+
 ## Giraffe
 
 AGP 8.1.x
