@@ -4,6 +4,8 @@ Android 14.0 (API level 34)
 
 1. LaunchMode singleInstance 殘留問題，Android 14 QPR1 已修復。
 
+   https://github.com/openid/AppAuth-Android/issues/977
+
 Android 13.0 (API level 33)
 
 Android 12.0 (API level 32)
