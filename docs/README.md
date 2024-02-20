@@ -1,5 +1,7 @@
 # Android
 
+Android 15.0 (API level 34)
+
 Android 14.0 (API level 34)
 
 1. LaunchMode singleInstance 殘留問題，Android 14 QPR1 已修復。
