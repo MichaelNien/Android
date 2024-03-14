@@ -1,20 +1,24 @@
 # Android Studio
 
-## Hedgehog
+## Android Studio Iguana | 2023.2.1
+
+AGP 8.3.x
+
+## Android Studio Hedgehog | 2023.1.1
 
 AGP 8.2.x
 
-## Giraffe
+## Android Studio Giraffe | 2022.3.1
 
 AGP 8.1.x
 
-## Flamingo
+## Android Studio Flamingo | 2022.2.1
 
 AGP 8.0.x
 
 Open JDK 17
 
-## Electric Eel
+## Android Studio Electric Eel | 2022.1.1
 
 AGP 7.4.x
 
@@ -26,15 +30,15 @@ File -> Settings -> Editor -> Inlay Hints -> Code vision (取消勾選)
 
 [關閉 Code vision](https://stackoverflow.com/questions/75110696/how-to-disable-git-information-inlay-hints-in-editor-in-android-studio-electri)
 
-## Dolphin
+## Android Studio Dolphin | 2021.3.1
 
 AGP 7.3.x
 
-## Chipmunk
+## Android Studio Chipmunk | 2021.2.1
 
 AGP 7.2.x
 
-## Bumblebee
+## Android Studio Bumblebee | 2021.1.1
 
 AGP 7.1.x
 
@@ -46,11 +50,11 @@ Android Debug Brideg(ADB)
 Enable adb mDNS for wireless debugging (取消勾選)
 ```
 
-## Arctic Fox
+## Android Studio Arctic Fox | 2020.3.1
 
 AGP 7.0.x
 
-## 4.2.x
+## Android Studio 4.2
 
 AGP 4.2.x
 
@@ -65,7 +69,7 @@ Do not buile Gradle task list during Gradle sync(取消勾選)
 
 [Gradle tasks 出不來問題](https://stackoverflow.com/questions/67405791/gradle-tasks-are-not-showing-in-the-gradle-tool-window-in-android-studio-4-2)
 
-## 4.1.x
+## Android Studio 4.1
 
 AGP 4.1.x
 
