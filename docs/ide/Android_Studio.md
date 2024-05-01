@@ -2,6 +2,8 @@
 
 ## Android Studio Jellyfish | 2023.3.1
 
+AGP 8.4.x
+
 ## Android Studio Iguana | 2023.2.1
 
 AGP 8.3.x
