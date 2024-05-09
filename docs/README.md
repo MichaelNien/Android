@@ -42,6 +42,7 @@ Android 5.0 (API level 21)
 
 | 版本                                          | JDK        |
 | --------------------------------------------- | ---------- |
+| 15.0                                          | OpenJDK 17 |
 | 13.x                                          | OpenJDK 11 |
 | 7.x ~ 12.x                                    | OpenJDK 8  |
 | 5.x ~ 6.0 <br>(API level 21) ~ (API level 23) | OpenJDK 7  |
