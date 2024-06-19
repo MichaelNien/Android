@@ -1,5 +1,9 @@
 # Android Studio
 
+## Android Studio Koala | 2024.1.1
+
+AGP 8.5.x
+
 ## Android Studio Jellyfish | 2023.3.1
 
 AGP 8.4.x
