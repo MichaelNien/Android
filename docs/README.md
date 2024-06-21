@@ -1,44 +1,48 @@
 # Android
 
-Android 15.0 (API level 34)
+## Android 15.0 (API level 34)
 
-Android 14.0 (API level 34)
+## Android 14.0 (API level 34)
 
-1. LaunchMode singleInstance 殘留問題，Android 14 QPR1 已修復。
+- LaunchMode singleInstance 殘留問題，Android 14 QPR1 已修復。
 
-   https://github.com/openid/AppAuth-Android/issues/977
+  https://github.com/openid/AppAuth-Android/issues/977
 
-Android 13.0 (API level 33)
+## Android 13.0 (API level 33)
 
-Android 12.0 (API level 32)
+## Android 12.0 (API level 32)
 
-Android 12.0 (API level 31)
+## Android 12.0 (API level 31)
 
-Android 11.0 (API level 30)
+## Android 11.0 (API level 30)
 
-Android 10.0 (API level 29)
+## Android 10.0 (API level 29)
 
-Android 9.0 (API level 28)
+## Android 9.0 (API level 28)
 
-Android 8.1 (API level 27)
+## Android 8.1 (API level 27)
 
-Android 8.0 (API level 26)
+## Android 8.0 (API level 26)
 
-1. bug Activities 設定透明，又設定方向，閃退問題
+- bug Activities 設定透明，又設定方向，閃退問題
 
-   https://blog.csdn.net/ruanxiaoyao/article/details/102462738
+  Only fullscreen activities can request orientation
 
-Android 7.1 (API level 25)
+  https://blog.csdn.net/ruanxiaoyao/article/details/102462738
 
-Android 7.0 (API level 24)
+## Android 7.1 (API level 25)
 
-Android 6.0 (API level 23)
+## Android 7.0 (API level 24)
 
-Android 5.1 (API level 22)
+## Android 6.0 (API level 23)
 
-Android 5.0 (API level 21)
+## Android 5.1 (API level 22)
+
+## Android 5.0 (API level 21)
 
 
+
+## 其他
 
 | 版本                                          | JDK        |
 | --------------------------------------------- | ---------- |
