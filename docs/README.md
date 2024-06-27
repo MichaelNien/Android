@@ -1,6 +1,6 @@
 # Android
 
-## Android 15.0 (API level 34)
+## Android 15.0 (API level 35)
 
 ## Android 14.0 (API level 34)
 
