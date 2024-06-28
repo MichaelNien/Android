@@ -2,6 +2,10 @@
 
 ## Android 15.0 (API level 35)
 
+- Support 16 KB page sizes
+
+  https://developer.android.com/guide/practices/page-sizes
+
 ## Android 14.0 (API level 34)
 
 - LaunchMode singleInstance 殘留問題，Android 14 QPR1 已修復。
