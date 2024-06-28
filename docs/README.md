@@ -1,10 +1,14 @@
 # Android
 
+
+
 ## Android 15.0 (API level 35)
 
 - Support 16 KB page sizes
 
   https://developer.android.com/guide/practices/page-sizes
+
+
 
 ## Android 14.0 (API level 34)
 
@@ -12,19 +16,35 @@
 
   https://github.com/openid/AppAuth-Android/issues/977
 
+
+
 ## Android 13.0 (API level 33)
+
+
 
 ## Android 12.0 (API level 32)
 
+
+
 ## Android 12.0 (API level 31)
+
+
 
 ## Android 11.0 (API level 30)
 
+
+
 ## Android 10.0 (API level 29)
+
+
 
 ## Android 9.0 (API level 28)
 
+
+
 ## Android 8.1 (API level 27)
+
+
 
 ## Android 8.0 (API level 26)
 
@@ -34,13 +54,23 @@
 
   https://blog.csdn.net/ruanxiaoyao/article/details/102462738
 
+
+
 ## Android 7.1 (API level 25)
+
+
 
 ## Android 7.0 (API level 24)
 
+
+
 ## Android 6.0 (API level 23)
 
+
+
 ## Android 5.1 (API level 22)
+
+
 
 ## Android 5.0 (API level 21)
 
