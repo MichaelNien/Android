@@ -15,6 +15,14 @@
 - LaunchMode singleInstance 殘留問題，Android 14 QPR1 已修復。
 
   https://github.com/openid/AppAuth-Android/issues/977
+  
+- AOSP(AP2A.240705.004)
+
+  影響裝置
+
+  Pixel 5a (5G)、Pixel 6、Pixel 6a、Pixel 6 Pro、Pixel 7、Pixel 7a、Pixel 7 Pro、Pixel Fold、Pixel Tablet
+
+  https://issuetracker.google.com/issues/351245215
 
 
 
