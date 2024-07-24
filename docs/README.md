@@ -16,12 +16,22 @@
 
   https://github.com/openid/AppAuth-Android/issues/977
   
-- AOSP(AP2A.240705.004)
+- Activity#onActivityResult()失效問題
 
   影響裝置
 
-  Pixel 5a (5G)、Pixel 6、Pixel 6a、Pixel 6 Pro、Pixel 7、Pixel 7a、Pixel 7 Pro、Pixel Fold、Pixel Tablet
+  Pixel 8、Pixel 8a、Pixel 8 Pro
 
+  Pixel 5a (5G)、Pixel 6、Pixel 6a、Pixel 6 Pro、Pixel 7、Pixel 7a、Pixel 7 Pro、Pixel Fold、Pixel Tablet
+  
+  例如：
+  
+  Pixel 6a
+  
+  - [ ] AP2A.240705.004
+  - [ ] AP2A.240605.024
+  - [x] AP1A.240505.004
+  
   https://issuetracker.google.com/issues/351245215
 
 
