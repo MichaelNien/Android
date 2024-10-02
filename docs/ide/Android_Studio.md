@@ -2,6 +2,12 @@
 
 
 
+## Android Studio Ladybug | 2024.2.1
+
+AGP 8.7.x
+
+
+
 ## Android Studio Koala Feature Drop | 2024.1.2
 
 AGP 8.6.x
