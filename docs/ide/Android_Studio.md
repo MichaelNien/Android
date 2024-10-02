@@ -6,6 +6,8 @@
 
 AGP 8.7.x
 
+New UI
+
 
 
 ## Android Studio Koala Feature Drop | 2024.1.2
