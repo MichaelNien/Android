@@ -6,6 +6,8 @@
 
 AGP 8.7.x
 
+JetBrains Runtime 21
+
 New UI
 
 
