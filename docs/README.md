@@ -7,6 +7,8 @@
 - Support 16 KB page sizes
 
   https://developer.android.com/guide/practices/page-sizes
+  
+- 自動啟用 Edge-to-edge enforcement
 
 
 
