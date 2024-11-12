@@ -6,7 +6,7 @@
 
 AGP 8.7.x
 
-JetBrains Runtime 21
+JetBrains Runtime 21.0.3
 
 New UI
 
@@ -16,11 +16,15 @@ New UI
 
 AGP 8.6.x
 
+JetBrains Runtime 17.0.11
+
 
 
 ## Android Studio Koala | 2024.1.1
 
 AGP 8.5.x
+
+JetBrains Runtime 17.0.11
 
 
 
