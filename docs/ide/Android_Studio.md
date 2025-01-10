@@ -2,6 +2,12 @@
 
 
 
+## Android Studio Ladybug Feature Drop | 2024.2.2
+
+AGP 8.8.x
+
+
+
 ## Android Studio Ladybug | 2024.2.1
 
 AGP 8.7.x
