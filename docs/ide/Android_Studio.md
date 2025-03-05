@@ -2,6 +2,14 @@
 
 
 
+## Android Studio Meerkat | 2024.3.1
+
+AGP 8.9.x
+
+JetBrains Runtime 21.0.5
+
+
+
 ## Android Studio Ladybug Feature Drop | 2024.2.2
 
 AGP 8.8.x
