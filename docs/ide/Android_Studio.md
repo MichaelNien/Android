@@ -2,6 +2,12 @@
 
 
 
+## Android Studio Meerkat Feature Drop | 2024.3.2
+
+AGP 8.10.x
+
+
+
 ## Android Studio Meerkat | 2024.3.1
 
 AGP 8.9.x
