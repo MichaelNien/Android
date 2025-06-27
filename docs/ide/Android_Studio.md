@@ -2,6 +2,14 @@
 
 
 
+## Android Studio Narwhal | 2025.1.1
+
+AGP 8.11.x
+
+JetBrains Runtime 21.0.6
+
+
+
 ## Android Studio Meerkat Feature Drop | 2024.3.2
 
 AGP 8.10.x
