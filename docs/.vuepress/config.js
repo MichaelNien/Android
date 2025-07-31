@@ -11,6 +11,14 @@ module.exports = {
     sidebar: [
       ['/', '首頁'],
 	  {
+        title: 'PQC',
+        collapsable: false,
+        sidebarDepth: 1,
+        children: [
+          ['/security/PQC.md', 'PQC'],
+        ]
+      },
+	  {
         title: 'Ide',
         collapsable: false,
         sidebarDepth: 1,
