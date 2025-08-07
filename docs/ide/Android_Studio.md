@@ -4,6 +4,12 @@
 
 ## Android Studio Narwhal Feature Drop | 2025.1.2
 
+AGP 8.12.x
+
+JetBrains Runtime 21.0.6
+
+K2 mode
+
 
 
 ## Android Studio Narwhal | 2025.1.1
