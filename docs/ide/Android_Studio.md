@@ -2,6 +2,12 @@
 
 
 
+## Android Studio Narwhal 3 Feature Drop | 2025.1.3
+
+AGP 8.13.x
+
+
+
 ## Android Studio Narwhal Feature Drop | 2025.1.2
 
 AGP 8.12.x
