@@ -1,0 +1,5 @@
+# MinSdkVersion
+
+
+
+## GooglePlay Service

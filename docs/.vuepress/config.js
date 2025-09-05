@@ -11,14 +11,6 @@ module.exports = {
     sidebar: [
       ['/', '首頁'],
 	  {
-        title: 'PQC',
-        collapsable: false,
-        sidebarDepth: 1,
-        children: [
-          ['/security/PQC.md', 'PQC'],
-        ]
-      },
-	  {
         title: 'Ide',
         collapsable: false,
         sidebarDepth: 1,
@@ -27,11 +19,19 @@ module.exports = {
         ]
       },
 	  {
-        title: 'Service',
+        title: 'Security',
         collapsable: false,
         sidebarDepth: 1,
         children: [
-          ['/service/Firebase.md', 'Firebase'],
+          ['/security/PQC.md', 'PQC'],
+        ]
+      },
+	  {
+        title: 'Policy',
+        collapsable: false,
+        sidebarDepth: 1,
+        children: [
+          ['/policy/MinSdkVersion.md', 'MinSdkVersion'],
         ]
       },
     ],
