@@ -16,4 +16,4 @@ JEP 497 支援 ML-DSA
 
 ## Android
 
-尚未支援
+KeyStore Android 16 尚未支援
