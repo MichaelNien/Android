@@ -14,6 +14,10 @@ JEP 497 支援 ML-DSA
 
 
 
+JDK 25 LTS 尚未發布
+
+
+
 ## Android
 
 KeyStore Android 16 尚未支援
