@@ -4,7 +4,7 @@
 
 ## JDK
 
-JDK 24
+### JDK 24
 
 https://www.oracle.com/tw/news/announcement/oracle-releases-java-24-2025-03-18/
 
@@ -14,7 +14,7 @@ JEP 497 支援 ML-DSA
 
 
 
-JDK 25 LTS 尚未發布
+### JDK 25 LTS 尚未發布
 
 
 
