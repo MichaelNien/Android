@@ -4,6 +4,10 @@
 
 ## Android 16.0 (API level 36)
 
+- 此版本多了子版本
+  - 36.0
+  - 36.1
+
 
 
 ## Android 15.0 (API level 35)
