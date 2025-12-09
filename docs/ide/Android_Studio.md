@@ -2,6 +2,12 @@
 
 
 
+## Android Studio Otter 2 Feature Drop | 2025.2.2
+
+AGP 8.13.x
+
+
+
 ## Android Studio Otter | 2025.2.1                                    
 
 AGP 8.13.x
