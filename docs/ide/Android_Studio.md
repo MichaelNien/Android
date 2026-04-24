@@ -2,6 +2,12 @@
 
 
 
+## Android Studio Panda 4 | 2025.3.4
+
+AGP 9.2.x
+
+
+
 ## Android Studio Panda 3 | 2025.3.3
 
 AGP 9.1.x
