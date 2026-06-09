@@ -2,6 +2,12 @@
 
 
 
+## Android Studio Quail 1 | 2026.1.1
+
+AGP 9.2.x
+
+
+
 ## Android Studio Panda 4 | 2025.3.4
 
 AGP 9.2.x
