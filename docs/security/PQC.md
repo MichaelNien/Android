@@ -2,7 +2,7 @@
 
 
 
-## TLS v3
+## TLS 1.3
 
 Android 10
 
