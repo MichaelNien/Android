@@ -2,6 +2,12 @@
 
 
 
+## TLS v3
+
+Android 10
+
+
+
 ## JDK
 
 ### JDK 24
@@ -20,4 +26,13 @@ JEP 497 支援 ML-DSA
 
 ## Android
 
-KeyStore Android 16 尚未支援
+### KeyStore 
+
+Android 17 支援 ML-DSA-65 和 ML-DSA-8
+
+
+
+### Apk sign
+
+Android 17 支援 APK Signature Scheme v3.2 ML-DSA
+
