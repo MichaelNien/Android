@@ -12,7 +12,7 @@ https://developers.google.com/android/guides/overview
 
 MinSdkVersion 24 (Android 7.0)
 
-| 版本                |                         | 日期       | 公告                                                         |
+| 停止支援版本        |                         | 日期       | 公告                                                         |
 | ------------------- | ----------------------- | ---------- | ------------------------------------------------------------ |
 | Android 6.0         | API levels 23           | 2026/07/24 | 非官方公告<br/>https://www.androidauthority.com/google-android-6-marshmallow-support-ended-3691168/ |
 | Android 5.0/5.1     | API levels 21 & 22      | 2024/07/11 | 非官方公告<br>https://9to5google.com/2024/07/11/android-lollipop-google-play-services/ |
