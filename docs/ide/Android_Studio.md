@@ -2,6 +2,12 @@
 
 
 
+## Android Studio Quail 2 | 2026.1.2
+
+AGP 9.3.x
+
+
+
 ## Android Studio Quail 1 | 2026.1.1
 
 AGP 9.2.x
