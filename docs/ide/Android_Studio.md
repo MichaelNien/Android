@@ -2,6 +2,14 @@
 
 
 
+## Android Studio Quail 3 | 2026.1.3
+
+AGP 9.3.x
+
+JetBrains Runtime 25.0.2+-15348964-b329.117
+
+
+
 ## Android Studio Quail 2 | 2026.1.2
 
 AGP 9.3.x
